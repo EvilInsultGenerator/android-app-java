@@ -1,4 +1,7 @@
 # Evil Insult Generator Android App
+[![Build Status](https://travis-ci.org/EvilInsultGenerator/android-app.svg?branch=master)](https://travis-ci.org/EvilInsultGenerator/android-app)
+[![Code Climate](https://codeclimate.com/github/EvilInsultGenerator/android-app/badges/gpa.svg)](https://codeclimate.com/github/EvilInsultGenerator/android-app)
+[![Website](https://img.shields.io/website-up-down-green-red/https/evilinsult.com.svg)]()
 
 Evil Insult Generator's goal is to offer the most evil insults. Please help us to reach this honorable purpose by submitting insults
 via mail.
