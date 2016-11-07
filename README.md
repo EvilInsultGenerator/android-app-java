@@ -1,7 +1,7 @@
 # Evil Insult Generator Android App
 [![Build Status](https://travis-ci.org/EvilInsultGenerator/android-app.svg?branch=master)](https://travis-ci.org/EvilInsultGenerator/android-app)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ded73a40a6e744ae90ab233704adf927)](https://www.codacy.com/app/EvilInsultGenerator/android-app?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=EvilInsultGenerator/android-app&amp;utm_campaign=Badge_Grade) 
-[![Website](https://img.shields.io/website-up-down-green-red/https/evilinsult.com.svg)]()
+[![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg)](https://evilinsult.com)
 
 Evil Insult Generator's goal is to offer the most evil insults. Please help us to reach this honorable purpose by submitting insults
 via mail.
