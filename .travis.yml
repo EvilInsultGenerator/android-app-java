@@ -25,5 +25,5 @@ android:
     # - sys-img-x86-android-17
 jdk:
     - oraclejdk8
-sudo: false
+sudo: required
 script: ./gradlew build check
