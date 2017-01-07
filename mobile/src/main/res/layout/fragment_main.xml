@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.evilinsult.evilinsultgenerator.MainFragment"
+                android:background="@drawable/main_back">
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:padding="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:textAlignment="center"
+        android:id="@+id/lang_button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center_horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="50dp"
+        android:layout_centerVertical="false" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Generate Insult"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        android:textSize="28sp"
+        android:id="@+id/main_button"
+        android:layout_above="@+id/lang_button"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentEnd="false"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:inputType="textMultiLine|textNoSuggestions"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/result"
+        android:layout_above="@id/main_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp"
+        android:scrollHorizontally="false"/>
+
+
+</RelativeLayout>

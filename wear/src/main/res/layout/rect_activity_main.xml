@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:deviceIds="wear_square"
+    android:background="#D32F2F"
+    android:weightSum="1">
+
+    <TextView
+        android:text="Insult"
+        android:layout_width="147dp"
+        android:layout_height="80dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/result"
+        android:inputType="textMultiLine"
+        android:layout_centerHorizontal="true"
+        android:scrollHorizontally="false"
+        android:gravity="center"/>
+
+    <Button
+        android:layout_width="52dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/show"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/ic_autorenew"
+        />
+
+
+
+
+</LinearLayout>

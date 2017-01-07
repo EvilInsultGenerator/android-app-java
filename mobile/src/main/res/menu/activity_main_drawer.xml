@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+        <item android:id="@+id/nav_proposal" android:icon="@drawable/ic_star_white_36dp"
+              android:title="Proposal"/>
+        <item android:id="@+id/nav_facebook" android:icon="@drawable/ic_action_facebook"
+              android:title="Facebook"/>
+        <item android:id="@+id/nav_twitter" android:icon="@drawable/ic_action_twitter"
+              android:title="Twitter"/>
+        <item android:id="@+id/nav_newsletter" android:icon="@drawable/ic_email"
+              android:title="Newsletter"/>
+        <item android:id="@+id/nav_contact" android:icon="@drawable/contacts"
+              android:title="Contact Us"/>
+        <item android:id="@+id/nav_website" android:icon="@drawable/web"
+              android:title="Website"/>
+        <item android:id="@+id/nav_legal" android:icon="@drawable/ic_gavel"
+              android:title="Legal"/>
+
+    </group>
+
+    <!-- <item android:title="Communicate">
+         <menu>
+             <item android:id="@+id/nav_share" android:icon="@android:drawable/ic_menu_share"
+                 android:title="Share" />
+             <item android:id="@+id/nav_send" android:icon="@android:drawable/ic_menu_send"
+                 android:title="Send" />
+         </menu>
+    </item>-->
+
+</menu>
