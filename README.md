@@ -53,4 +53,6 @@ Translations are hosted on [Transifex](https://www.transifex.com/evil-insult-gen
 
 ### Screenshots
 
-_TBD_
+![Evil Insult Generator Android App Screenshot](https://cloud.githubusercontent.com/assets/24981916/21746183/26848e94-d53d-11e6-9e6d-1345d120905e.png)
+![Evil Insult Generator Android App Screenshot](https://cloud.githubusercontent.com/assets/24981916/21746184/26864ab8-d53d-11e6-90ef-62371c3a8570.png)
+![Evil Insult Generator Android App Screenshot](https://cloud.githubusercontent.com/assets/24981916/21746188/2695644e-d53d-11e6-839c-1fbd5f41ade5.png)
