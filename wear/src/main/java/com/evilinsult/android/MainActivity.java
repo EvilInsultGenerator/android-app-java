@@ -49,7 +49,7 @@ public class MainActivity extends Activity {
         @Override
         protected Void doInBackground(Void... params) {
             try {
-                Document doc1 = Jsoup.connect("http://evilinsult.com/generate_insult.php?lang=en").get();
+                Document doc1 = Jsoup.connect("https://evilinsult.com/generate_insult.php?lang=en").get();
                 title = doc1.text();
             } catch (Exception ex) {
                 ex.printStackTrace();
