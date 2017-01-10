@@ -1,7 +1,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.evilinsult.evilinsultgenerator.MainFragment"
+    tools:context="com.evilinsult.android.MainFragment"
                 android:background="@drawable/main_back">
     <Spinner
         android:layout_width="match_parent"
@@ -38,7 +38,7 @@
         android:inputType="textMultiLine|textNoSuggestions"
         android:textColor="#fff"
         android:textAlignment="center"
-        android:textSize="40dp"
+        android:textSize="37dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
         android:id="@+id/result"

@@ -1,1 +1,42 @@
-PUT YOUR google-services.json HERE PLEASE
+{
+  "project_info": {
+    "project_number": "593648595975",
+    "firebase_url": "https://evil-insult-generator.firebaseio.com",
+    "project_id": "evil-insult-generator",
+    "storage_bucket": "evil-insult-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593648595975:android:5d157cbdfd4171a0",
+        "android_client_info": {
+          "package_name": "com.evilinsult.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593648595975-hhas9fljhiu5n8rc6v1ht2eap7m4qcbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLTucpA5AH61yk4YhapWa5c6CWgl4dqdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
