@@ -1,6 +1,6 @@
 language: android
 jdk: oraclejdk8
-sudo: false
+sudo: required
 
 android:
   components:
@@ -11,12 +11,5 @@ android:
     - android-24
     - sys-img-armeabi-v7a-android-22
     - extra-android-m2repository
-
-before_script:
-  # Create and start emulator
-  - echo no | android create avd --force -n test -t android-22 --abi armeabi-v7a
-  - emulator -avd test -no-skin -no-audio -no-window &
-  - android-wait-for-emulator
-  - adb shell input keyevent 82 &
 
 script: ./gradlew connectedAndroidTest
