@@ -6,6 +6,10 @@ android:
     - tools
     - tools # https://github.com/travis-ci/travis-ci/issues/6040#issuecomment-219367943
     - platform-tools
+    
+  licenses:
+    - 'android-sdk-license-.+'
+    - 'google-gdk-license-.+'
 
     # The BuildTools version used by your project
     - build-tools-24.0.2
