@@ -9,6 +9,7 @@
     <TextView
         android:text="Insult"
         android:layout_width="147dp"
+        android:textSize="11.5dp"
         android:layout_height="80dp"
         android:textAlignment="center"
         android:textColor="@color/white"

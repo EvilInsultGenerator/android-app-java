@@ -23,6 +23,7 @@
         android:inputType="textMultiLine"
         android:layout_centerHorizontal="true"
         android:scrollHorizontally="false"
+        android:textSize="11.5dp"
         android:gravity="center"/>
 
     <Button
