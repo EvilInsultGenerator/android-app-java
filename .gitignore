@@ -48,3 +48,6 @@ captures/
 # Keystore files
 *.jks
 >>>>>>> 6b08a6e870ecf6637d5d09ae9d1cf38aea263fc9
+
+# Google Servicd
+google-services.json
