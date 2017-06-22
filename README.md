@@ -1,6 +1,5 @@
 # Evil Insult Generator Android App
 [![Build Status](https://travis-ci.org/EvilInsultGenerator/android-app.svg?branch=master)](https://travis-ci.org/EvilInsultGenerator/android-app)
-[![CircleCI](https://circleci.com/gh/EvilInsultGenerator/android-app.svg?style=svg)](https://circleci.com/gh/EvilInsultGenerator/android-app)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ded73a40a6e744ae90ab233704adf927)](https://www.codacy.com/app/EvilInsultGenerator/android-app?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=EvilInsultGenerator/android-app&amp;utm_campaign=Badge_Grade) 
 [![codebeat badge](https://codebeat.co/badges/3bd8e967-a081-4045-b363-6991220a2afe)](https://codebeat.co/projects/github-com-evilinsultgenerator-android-app-master)
 [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg)](https://evilinsult.com)
