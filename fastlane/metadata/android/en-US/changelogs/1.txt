@@ -1,0 +1,1 @@
+Complete rewrite with changed package name (com.evilinsult instead of com.evilinsult.android)
